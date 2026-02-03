@@ -88,7 +88,6 @@ print(plt.plot(x,y))
 
 
 
-
       
       
 
